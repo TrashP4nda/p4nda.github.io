@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Trash_P4nda.io"
+title                    : "TrashP4nda"
 title_separator          : "-"
-name                     : "TrashPanda"
+name                     : "TrashP4nda"
 description              : "Personal Blog"
 url                      : "https://trashp4nda.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "TrashP4nda/trashp4nda.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-logo                     : #
+logo                     : "/assets/svg/trash_panda.svg"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -102,8 +102,8 @@ analytics:
 # Site Author
 author:
   name             : "Trash_Panda"
-  avatar           : "/assets/images/raccoon1.jpg"
-  bio              : "Cybersecurity Student / CTF enjoyer"
+  avatar           : "/assets/images/racoon2.jpg"
+  bio              : "Full Stack Dev / Infosec Enthusiast / Part time clown"
   location         : "Spain"
   email            : # ""
   uri              :
@@ -120,7 +120,7 @@ author:
   keybase          : # ""
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "daniel-mart%C3%ADn-7387b7172"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
