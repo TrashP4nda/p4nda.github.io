@@ -4,9 +4,6 @@ title: What have I been up to?
 excerpt: "The awesome and chaotic life of a solo junior dev"
 date: 2024-09-15
 classes: wide
-header:
-  teaser: /assets/images/whatbeenupto/cap.jpg
-  teaser_home_page: true
 categories:
   - life
 tags:  
